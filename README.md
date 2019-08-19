@@ -1,3 +1,5 @@
+# Minimal Blockchain
+
 I recently completed IBM's online course titled "Blockchain Essentials", but in order to fully grasp the concept I built this simple Blockchain.
 I like learning by doing. It forces me to deal with the subject matter at a code level, which gets it sticking.
 
